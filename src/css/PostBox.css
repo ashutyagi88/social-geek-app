@@ -1,0 +1,17 @@
+.PostIt_btn {
+  background-color: var(--primary-color) !important;
+  color: #ffffff !important;
+  border: none !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  border-radius: 30px !important;
+  height: 40px !important;
+  margin-top: 25px !important;
+  width: 20% !important;
+  margin-left: auto !important;
+}
+
+.PostIt_btn:disabled {
+  background-color: #808080 !important;
+  color: #000000 !important;
+}

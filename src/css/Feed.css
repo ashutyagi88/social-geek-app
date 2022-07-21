@@ -1,0 +1,13 @@
+.feed::-webkit-scrollbar {
+  display: none;
+}
+/* For Safari Chrome Opera */
+
+.feed {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.feed {
+  width: 1000px;
+}

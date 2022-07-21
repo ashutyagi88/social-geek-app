@@ -1,0 +1,17 @@
+.sidebar {
+  margin-left: 50px;
+  padding-right: 5px;
+  border-right: 0.5px solid var(--primary-color);
+  flex: 0.3;
+}
+.sidebar-btn {
+  background-color: var(--primary-color) !important;
+  color: #ffffff !important;
+  border: none !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  border-radius: 30px !important;
+  height: 50px !important;
+  margin-top: 25px !important;
+  width: 66% !important;
+}
